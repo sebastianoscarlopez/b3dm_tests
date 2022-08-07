@@ -1,0 +1,89 @@
+{
+  "asset": {
+    "version": "0.0",
+    "tilesetVersion": "1.0.0-obj23dtiles",
+    "gltfUpAxis": "Y"
+  },
+  "geometricError": 20,
+  "root": {
+    "transform": [
+      15,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      0,
+      0,
+      0,
+      15,
+      0,
+      -6499012.0,
+      -4110162.0,
+      45,
+      1
+    ],
+    "boundingVolume": {
+      "box": [
+        4,
+        4,
+        4,
+        10,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        10
+      ]
+    },
+    "geometricError": 10,
+    "refine": "ADD",
+    "content": {
+      "url": "Thermo.b3dm"
+    },
+    "children": [{
+      "transform": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -20.0,
+        -10.0,
+        0,
+        1
+      ],
+      "boundingVolume": {
+        "box": [
+          4,
+          4,
+          4,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      "geometricError": 1,
+      "content": {
+        "url": "Thermo.b3dm"
+      }
+    }]
+  }
+}
